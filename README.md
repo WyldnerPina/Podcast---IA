@@ -1,5 +1,8 @@
 # 🎙️ Projeto Podcast Gerado por I.A.s
 
+### ✅ Para executar:
+[Abra o link e clique no **play**.](https://wyldnerpina.github.io/Podcast---IA/)
+
 **Obs:** Projeto desenvolvido para o curso *"Universia - Fundamentos de IA Generativa"*
 
 ---
@@ -150,5 +153,5 @@ Gere uma imagem de um jovem apresentador de podcast, careca, mas com boné. Sorr
 # 🎬 Shotcut para tratar áudio e adicionar sons de fundo
 ---
 
-### ✅ Instruções de execução
+### ✅ Para executar:
 [Abra o link e clique no **play**.](https://wyldnerpina.github.io/Podcast---IA/)
